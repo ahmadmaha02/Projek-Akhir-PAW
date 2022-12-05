@@ -24,7 +24,7 @@
         
         <div class="row">
             <div class="col-md-4">
-                <img src="/storage/{{$buku->sampul}}" alt="{{$buku->judul}}" width="300" height="400">
+                <img src="{{ asset('storage/' . $buku->sampul) }}" alt="{{$buku->sampul}}" width="300" height="400">
             </div>
             <div class="col-md-8">
                  <table class="table">
