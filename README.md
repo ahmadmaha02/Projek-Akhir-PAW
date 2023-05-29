@@ -57,7 +57,7 @@ copy .env.example menjadi .env
 nama database : perpustakaan_laravel_8
 ```
 
-## Setting database di .env
+## Setting database di .env sesuaikan sendiri
 
 ```bash
 DB_PORT=3306
