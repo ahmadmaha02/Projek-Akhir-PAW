@@ -15,11 +15,11 @@
 - Dan lain-lain
 
 ## User
-
+ubah di user seeder .php
 **Admin**
 
-- email: admin@gmail.com
-- Password: 123123123
+- email: bebas
+- Password: besbas
 
 **Petuags**
 
